@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tres en raya 3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textoBotonSup">Player vs Player</string>
+    <string name="textoBotonInf">Player vs IA</string>
+</resources>
