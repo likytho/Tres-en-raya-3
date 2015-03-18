@@ -11,6 +11,16 @@
         android:layout_height="wrap_content"
         android:text="Actividad 2 iniciada"
         android:layout_gravity="center"
-        android:textSize="100dp"/>
+        android:textSize="50dp"/>
+
+    <ImageButton
+        android:layout_width="133dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="0.19"
+        android:background="@color/Blue"
+        android:onClick="onClick"
+        />
 
 </LinearLayout>
